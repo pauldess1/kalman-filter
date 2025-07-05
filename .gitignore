@@ -1,0 +1,5 @@
+# Fichiers d'environnement
+venv/
+__pycache__/
+*.pyc
+.DS_Store
